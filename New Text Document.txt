@@ -1,0 +1,25 @@
+Summary:-
+
+1.Tested Userstory "US7356 , US7578" .
+2.Tested Admin > Calimatic Platform Config ,Email & SMS Templates.
+3. Tested Franchises >Inventory & Training.
+4. Reported Issues.
+
+
+
+Test :-
+
+Dashboards from all roles 
+Student Boards
+calendar 
+franchises >Inventory ,training // Done
+admin>Calimatic Platform Config ,Email & SMS Templates //DONE
+
+
+
+
+
+1. Tested Challenge Board & TaskBoard.
+2. Tested Student Board ( from Company Admin).
+3. Verified Userstory US7517
+4. Reported Issues and logged Issues in the application.
